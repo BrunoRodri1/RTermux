@@ -5,4 +5,4 @@
 <br><br><br>
 
 ### Baixe as versões
-Vá para a aba [releases]()
+Vá para a aba [releases](https://github.com/BrunoRodri1/RTermux/releases)
