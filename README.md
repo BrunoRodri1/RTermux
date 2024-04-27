@@ -7,4 +7,5 @@ termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install python3 w
 ```
 <br>
 
-- Ou baixe o arquivo abaixo<br>
+- Ou vá em releases: <br>
+[First release](https://github.com/BrunoRodri1/meu_termux/releases/tag/v0.1.0-beta)
