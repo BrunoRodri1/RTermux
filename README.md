@@ -8,4 +8,4 @@ termux-setup-storage && pkg update -y && pkg upgrade -y && pkg install python3 w
 <br>
 
 - Ou baixe o arquivo abaixo<br>
-uptermux.sh](files/uptermux.sh)
+[uptermux.sh](files/uptermux.sh)
