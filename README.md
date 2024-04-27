@@ -1,5 +1,5 @@
 # Um inicializador para o seu Termux
-> O UpTermux está em versão beta.
+> O RTermux está em versão beta.
 
 **Inicie o seu termux pronto pra qualquer coisa!**
 <br><br><br>
