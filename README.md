@@ -1,8 +1,8 @@
-# Um inicializador para o seu Termux
-> O RTermux está em versão beta.
+# An initializer for your Termux
+> RTermux is in beta version.
 
-**Inicie o seu termux pronto pra qualquer coisa!**
+**Start your Termux ready for anything!**
 <br><br><br>
 
-### Baixe as versões
-Vá para a aba [releases](https://github.com/BrunoRodri1/RTermux/releases)
+### Download versions
+Go to the [releases](https://github.com/BrunoRodri1/RTermux/releases) tab.
