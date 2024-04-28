@@ -24,7 +24,7 @@ sh RTermux.sh
 
 ## How to install aliases:<br>
 
-First, go to a version that already has the aliases. Then install **RTermux** and then download the ***"default.bashrc"*** file. Once downloaded, rename the ***"default.bashrc"*** file to ***".bashrc"***:
+First, go to a version that already has the aliases ***( v0.2.0 up )***. Then install **RTermux** and then download the ***"default.bashrc"*** file. Once downloaded, rename the ***"default.bashrc"*** file to ***".bashrc"***:
 
 ```bash
 mv default.bashrc .bashrc
