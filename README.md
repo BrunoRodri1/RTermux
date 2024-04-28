@@ -1,4 +1,5 @@
-# An initializer for your Termux
+# RTermux: An initializer for your Termux
+<img src="images/" alt="RTermux icon">
 > RTermux is in beta version.
 
 **Start your Termux ready for anything!**
