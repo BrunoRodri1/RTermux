@@ -14,8 +14,28 @@
 Go to the [releases](https://github.com/BrunoRodri1/RTermux/releases) tab.
 <br><br>
 
-### How to use:<br>
+## How to install:<br>
 After downloading the ***RTermux.sh*** file, simply open termux and go to the folder where the file is. Then run this code:
+
 ```bash
 sh RTermux.sh
 ```
+<br>
+
+## How to install aliases:<br>
+
+First, go to a version that already has the aliases. Then install **RTermux** and then download the ***"default.bashrc"*** file. Once downloaded, rename the ***"default.bashrc"*** file to ***".bashrc"***:
+
+```bash
+mv default.bashrc .bashrc
+```
+<br>
+
+Move the file to the default termux directory **(don't have a '.bashrc' file in the default directory)** :
+
+```bash
+mv .bashrc $HOME
+```
+<br>
+
+**Now just restart termux.**
