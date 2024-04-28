@@ -1,5 +1,5 @@
 # RTermux: An initializer for your Termux
-<img src="images/" alt="RTermux icon">
+<img src="images/RTermux_icon.jpg" alt="RTermux icon" height="250px">
 > RTermux is in beta version.
 
 **Start your Termux ready for anything!**
