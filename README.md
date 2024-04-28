@@ -3,8 +3,8 @@
 
 > RTermux is in beta version.
 
-**Start your Termux ready for anything!**
-<br><br><br>
+### Start your Termux ready for anything!
+<br>
 
 ### Download versions
 Go to the [releases](https://github.com/BrunoRodri1/RTermux/releases) tab.
